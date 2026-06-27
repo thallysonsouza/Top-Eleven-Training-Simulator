@@ -36,7 +36,7 @@ The simulator allows users to:
 1. Enter the player's initial attributes.
 2. Select the player's position.
 3. Define the desired Overall Rating (GRL).
-4. Define the desired training average.
+4. Define the desired Training average.
 5. The simulator generates one or more optimized training sequences.
 6. Review the predicted final attributes before training the player in-game.
 
