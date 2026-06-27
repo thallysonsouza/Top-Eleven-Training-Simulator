@@ -83,16 +83,6 @@ Each exercise can be individually analyzed to understand how it contributes to t
 
 ---
 
-# 📈 Real Validation
-
-The simulator was validated using a real Top Eleven player.
-
-The player's attributes after following the generated training sequence matched the expected progression.
-
-![Real Validation](screenshots/08-real-validation.jpeg)
-
----
-
 # 📦 Download
 
 Download the latest version of:
