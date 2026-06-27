@@ -46,17 +46,17 @@ This workflow allows players to optimize their training strategy while reducing 
 
 # ✨ Features
 
-* ✅ Automatic training generation
-* ✅ Position-based optimization
-* ✅ White Skills optimization
-* ✅ Initial player attribute configuration
-* ✅ Target Overall Rating (GRL)
-* ✅ Multiple optimized training sequences
-* ✅ Exercise-by-exercise visualization
-* ✅ Final attribute prediction
-* ✅ Automatic White Skills average calculation
-* ✅ Input validation
-* ✅ Professional Excel dashboard
+* Automatic training generation
+* Position-based optimization
+* White Skills optimization
+* Initial player attribute configuration
+* Target Overall Rating (GRL)
+* Multiple optimized training sequences
+* Exercise-by-exercise visualization
+* Final attribute prediction
+* Automatic White Skills average calculation
+* Input validation
+* Professional Excel dashboard
 
 ---
 
