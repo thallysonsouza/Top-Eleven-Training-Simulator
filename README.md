@@ -164,12 +164,12 @@ Extract the archive and open the Excel workbook.
 
 The simulator is continuously evolving. Planned improvements include:
 
-- ⏳ Support for **Goalkeepers (GK)**.
-- 🎯 Improved algorithm to identify the most efficient training sequence among all possible combinations.
-- 📊 More detailed training statistics and performance indicators.
-- ⚡ Faster optimization for large training simulations.
-- 📁 Automatic export of generated training plans.
-- 🌍 Multi-language support (English and Portuguese).
+- Support for **Goalkeepers (GK)**.
+- Improved algorithm to identify the most efficient training sequence among all possible combinations.
+- More detailed training statistics and performance indicators.
+- Faster optimization for large training simulations.
+- Automatic export of generated training plans.
+- Multi-language support (English and Portuguese).
 
 ---
 
