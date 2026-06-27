@@ -22,12 +22,12 @@ The purpose of this simulator is to automatically generate the most efficient tr
 
 The simulator allows users to:
 
-* ⚽ Prioritize White Skills development.
-* 📈 Maximize training efficiency.
-* 🎯 Reach a target Overall Rating (GRL).
-* 💪 Minimize unnecessary Gray Skills growth.
-* 🔄 Predict the player's final attributes before performing any in-game training.
-* ⚡ Compare multiple optimized training sequences (Option A and Option B).
+* Prioritize White Skills development.
+* Maximize training efficiency.
+* Reach a target Overall Rating (GRL).
+* Minimize unnecessary Gray Skills growth.
+* Predict the player's final attributes before performing any in-game training.
+* Compare multiple optimized training sequences (Option A and Option B).
 
 ---
 
