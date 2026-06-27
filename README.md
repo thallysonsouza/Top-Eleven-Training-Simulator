@@ -160,6 +160,19 @@ Extract the archive and open the Excel workbook.
 
 ---
 
+# 🚀 Future Improvements
+
+The simulator is continuously evolving. Planned improvements include:
+
+- ⏳ Support for **Goalkeepers (GK)**.
+- 🎯 Improved algorithm to identify the most efficient training sequence among all possible combinations.
+- 📊 More detailed training statistics and performance indicators.
+- ⚡ Faster optimization for large training simulations.
+- 📁 Automatic export of generated training plans.
+- 🌍 Multi-language support (English and Portuguese).
+
+---
+
 # 📄 License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
